@@ -389,6 +389,16 @@ You work closely with:
 
 ## Useful Links
 
+## KQL Quick Reference: https://learn.microsoft.com/en-us/kusto/query/kql-quick-reference?view=azure-data-explorer
+
+## SQL Quick Reference: https://cdncontribute.geeksforgeeks.org/wp-content/uploads/SQL-Manual.pdf
+
+## Advanced SQL: https://faculty.cc.gatech.edu/~jarulraj/courses/4420-f21/slides/03-advanced-sql.pdf
+
+## SQL Cheat Sheet: https://www.dbvis.com/wp-content/uploads/2024/04/SQL-Cheat-Sheet.pdf
+
+## SQL to KQL Cheat Sheet: https://learn.microsoft.com/en-us/kusto/query/sql-cheat-sheet?view=azure-data-explorer
+
 ## Microsoft Fabric Sample Code Repo: https://github.com/microsoft/fabric-samples/tree/main
 
 ## SQL vs. KQL: https://www.c-sharpcorner.com/blogs/kql-vs-sql-a-comparative-analysis
@@ -397,6 +407,8 @@ You work closely with:
 ##                 https://www.markdownguide.org/getting-started/
 
 ## PySpark Guide: https://spark.apache.org/docs/latest/api/python/user_guide/index.html
+
+## PySpark Cheat Sheet: https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-in-python
 
 ## 📄 License
 
