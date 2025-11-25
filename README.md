@@ -393,7 +393,8 @@ You work closely with:
 
 ## SQL vs. KQL: https://www.c-sharpcorner.com/blogs/kql-vs-sql-a-comparative-analysis
 
-## Markdown Guide: https://www.markdownguide.org/getting-started/
+## Markdown Guide: https://daringfireball.net/projects/markdown/
+                   https://www.markdownguide.org/getting-started/
 
 ## PySpark Guide: https://spark.apache.org/docs/latest/api/python/user_guide/index.html
 
