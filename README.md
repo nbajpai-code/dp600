@@ -389,6 +389,8 @@ You work closely with:
 
 ## Useful Links
 
+## Exam Prep Questions: https://youtu.be/2cwmORLhhRw?si=7HLpZl6i6VHXla45
+
 ## KQL Quick Reference: https://learn.microsoft.com/en-us/kusto/query/kql-quick-reference?view=azure-data-explorer
 
 ## SQL Quick Reference: https://cdncontribute.geeksforgeeks.org/wp-content/uploads/SQL-Manual.pdf
