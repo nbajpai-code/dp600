@@ -412,6 +412,10 @@ You work closely with:
 
 ## PySpark Cheat Sheet: https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-in-python
 
+## Data Witches: https://data-witches.com/category/microsoft-fabric/
+
+
+
 ## 📄 License
 
 This repository is for educational purposes. All Microsoft trademarks and exam content are property of Microsoft Corporation.
