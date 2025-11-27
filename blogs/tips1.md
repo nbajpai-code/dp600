@@ -1,4 +1,4 @@
-##nWhat Does it Take to Pass the DP-600? 
+## What Does it Take to Pass the DP-600? 
 My preparation strategy involved completing the entire DP-600 learning path on Microsoft Learn to grasp the core concepts, followed by additional targeted techniques. This comprehensive approach enabled me to pass the exam.
 1) Start by taking the assessment test from the link below to identify the areas where you need improvement and target those. The questions in this test are more challenging than those in the actual exam, so aim for a score between 80% and 90%.
 Practice Assessment | Microsoft Learn
