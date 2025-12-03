@@ -1,3 +1,6 @@
+## MS Resources
+* https://learn.microsoft.com/en-us/collections/4w30heo3qq4zdx
+
 ## youtube
 * Azure Synapse YouTube channel (now focusing on Fabric content, including "Fabric Espresso" series) (34:57)
 
