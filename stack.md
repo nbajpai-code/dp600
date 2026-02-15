@@ -5,24 +5,31 @@ This stack shows how data moves from sources to reports in Fabric.
 
 
 [ CONSUMPTION ] -> Power BI (Direct Lake / Reports)
+
       ^
       |
 [ MODELING ]    -> Semantic Model (DAX, Star Schema, Measures)
+
       ^
       |
 [ SERVING ]     -> Lakehouse (Gold) / Data Warehouse
+
       ^
       |
 [ STORAGE ]     -> ONE LAKE (Delta Lake / Parquet Files)
+
       ^
       |
 [ TRANSFORMATION] -> Notebooks (PySpark/SQL) / Dataflows Gen2
+
       ^
       |
 [ INGESTION ]   -> Data Pipelines / Shortcuts / Mirroring
+
       ^
       |
 [ SOURCES ]     -> Azure SQL, ADLS Gen2, S3, SaaS Apps
+
 
 
 ## Key Technical Focus Areas for DP-600
