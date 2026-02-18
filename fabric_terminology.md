@@ -1,6 +1,10 @@
 ## Microsoft Fabric terminology
 Learn the definitions of terms used in Microsoft Fabric, including terms specific to Fabric Data Warehouse, Fabric Data Engineering, Fabric Data Science, Real-Time Intelligence, Data Factory, and Power BI.
 
+Microsoft Fabric — Components
+![Microsoft Fabric — Components](https://github.com/user-attachments/assets/adef8f5a-2a89-4c69-838c-e7f0af5c0dac)
+
+
 ## General terms
 ## Capacity: 
 Capacity is a dedicated set of resources that is available at a given time to be used. Capacity defines the ability of a resource to perform an activity or to produce output. Different items consume different capacity at a certain time. Fabric offers capacity through the Fabric SKU and Trials. For more information, see What is capacity?
