@@ -449,11 +449,11 @@ Microsoft Resources
 7. Hands-on Labs — https://microsoftlearning.github.io/mslearn-fabric/
 
 External Resources
-https://youtu.be/Bjk93hi21QM?si=IfR3gor1dPzV5Of9
-https://youtu.be/gFscPTp7hb4?si=9UQybMLusQCKnIE6
-https://www.udemy.com/course/dp-600-implementing-analytics-solutions-using-microsoft-fabric/
-https://www.examtopics.com/exams/microsoft/dp-600/
-https://www.certstest.com/test/DP-600?
+- https://youtu.be/Bjk93hi21QM?si=IfR3gor1dPzV5Of9
+- https://youtu.be/gFscPTp7hb4?si=9UQybMLusQCKnIE6
+- https://www.udemy.com/course/dp-600-implementing-analytics-solutions-using-microsoft-fabric/
+- https://www.examtopics.com/exams/microsoft/dp-600/
+- https://www.certstest.com/test/DP-600?
 
 
 **Good luck with your DP-600 certification! 🚀**
