@@ -1,6 +1,11 @@
 ## MS Resources
 * https://learn.microsoft.com/en-us/collections/4w30heo3qq4zdx
 
+* Microsoft Fabric — Components
+  ![Microsoft Fabric — Components](https://github.com/user-attachments/assets/4e3e8d97-72dd-4fb5-a702-1fa8f1550359)
+
+
+
 ## youtube
 * Azure Synapse YouTube channel (now focusing on Fabric content, including "Fabric Espresso" series) (34:57)
 
