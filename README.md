@@ -79,6 +79,9 @@ You work closely with:
 - ✅ Apply sensitivity labels to items
 - ✅ Endorse items
 
+  ![Exam Topic 1 — Maintain a data analytics solution- (25–30%)](https://github.com/user-attachments/assets/9782fe55-5236-4517-8d2e-95ea9bc58f9e)
+
+
 **Resources:**
 - 📖 [Workspace security](https://learn.microsoft.com/fabric/security/workspace-security)
 - 📖 [Item permissions](https://learn.microsoft.com/fabric/security/permission-model)
@@ -120,6 +123,9 @@ You work closely with:
 - ✅ Ingest or access data as needed
 - ✅ Choose between lakehouse, warehouse, or eventhouse
 - ✅ Implement OneLake integration for eventhouse and semantic models
+
+  
+![Exam Topic 2 — Prepare data (45–50%)](https://github.com/user-attachments/assets/6acb71b2-dbe8-4dbf-b739-18083f51d5c8)
 
 **Resources:**
 - 📖 [OneLake catalog](https://learn.microsoft.com/fabric/governance/use-microsoft-purview-hub)
@@ -186,6 +192,9 @@ You work closely with:
 - ✅ Implement calculation groups, dynamic format strings, field parameters
 - ✅ Identify use cases for large semantic model storage format
 - ✅ Design and build composite models
+
+  ![Exam Topic 3 — Implement and manage semantic models (25–30%)](https://github.com/user-attachments/assets/9344ef0d-8290-4c7b-896b-9d3b17be62a3)
+
 
 **Resources:**
 - 📖 [Storage mode](https://learn.microsoft.com/power-bi/transform-model/desktop-storage-mode)
@@ -421,6 +430,31 @@ You work closely with:
 This repository is for educational purposes. All Microsoft trademarks and exam content are property of Microsoft Corporation.
 
 ---
+
+## EXTRA
+
+Microsoft Resources
+1. Study Guide — Study guide for Exam DP-600: Implementing Analytics Solutions Using Microsoft Fabric | Microsoft Learn
+
+2. Training — DP-600T00-A: Microsoft Fabric Analytics Engineer — Training | Microsoft Learn
+
+3. Course — Microsoft Certified: Fabric Analytics Engineer Associate — Certifications | Microsoft Learn
+
+4. Practice Test — https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/practice/assessment?assessment-type=practice&assessmentId=90&practice-assessment-type=certification
+
+5. Self Guided Study Material — Microsoft Learn self-guided study materials: DP-600
+
+6. Exam Prep Videos Series — Preparing for DP-600: Maintain a data analytics solution (Part 1 of 3) | Microsoft Learn
+
+7. Hands-on Labs — https://microsoftlearning.github.io/mslearn-fabric/
+
+External Resources
+https://youtu.be/Bjk93hi21QM?si=IfR3gor1dPzV5Of9
+https://youtu.be/gFscPTp7hb4?si=9UQybMLusQCKnIE6
+https://www.udemy.com/course/dp-600-implementing-analytics-solutions-using-microsoft-fabric/
+https://www.examtopics.com/exams/microsoft/dp-600/
+https://www.certstest.com/test/DP-600?
+
 
 **Good luck with your DP-600 certification! 🚀**
 
